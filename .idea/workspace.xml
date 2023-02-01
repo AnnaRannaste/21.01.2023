@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="270f10a2-a6b6-48b4-9281-76d9beb9f759" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Classes/Extension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Classes/Ingredient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Classes/Business.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Classes/Business.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Classes/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Classes/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Classes/Pizzeria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Classes/Pizzeria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Classes/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Classes/Restaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Classes/Sushi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Classes/Sushi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

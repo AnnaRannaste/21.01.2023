@@ -66,7 +66,7 @@ public class Main {
         italian.addItem(food, "pizza Hawai", 1.0, null);
         italian.addItem(drinks, "Fanta", 1.55, null);
 
-        //________________________________________________________________________________________________________
+        //__________________________________________________________________________________________________________
         //japanese
 
         Menu japanese = new Menu();
@@ -85,6 +85,7 @@ public class Main {
         "Viljandi",  6.8, true, japanese);
 
         //---------------------------------------------------------------------------------------------------------
+
         //Orders
         //PizzaAndPan restaurant
         //Pizza of Americana was ordered by amount of 8
@@ -97,9 +98,8 @@ public class Main {
         LittleJapan.menu.setNumOfOrders(drinks, "Tea", 5);
 
         //---------------------------------------------------------------------------------------------------------
-
-
         //Output
+
         System.out.println("Expenses on salaries for each restaurant per year: ");
         System.out.println(PizzaAndPan.getName() + "- " + PizzaAndPan.getAmountSpentForSalaryPerYear());
 
